@@ -1,1 +1,1 @@
-Link hospedado: www.calculadoracassio.netlify.app
+Link hospedado: https://calculadoracassio.netlify.app
